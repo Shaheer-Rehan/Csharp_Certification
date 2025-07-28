@@ -12,3 +12,4 @@ C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\TestPr
 C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\TestProject1\obj\Debug\net9.0\TestProject1.pdb
 C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\TestProject1\obj\Debug\net9.0\TestProject1.genruntimeconfig.cache
 C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\TestProject1\obj\Debug\net9.0\ref\TestProject1.dll
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\TestProject1\obj\Debug\net9.0\TestProject1.sourcelink.json
