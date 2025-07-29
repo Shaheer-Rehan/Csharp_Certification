@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CsharpMethodsTutorials")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c279293c01534f563895794e95e8276e515ed316")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+048072aea66f910edd02e7f034f53805c198cb1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CsharpMethodsTutorials")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CsharpMethodsTutorials")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
