@@ -1,0 +1,15 @@
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\CsharpMethodsTutorials\bin\Debug\net9.0\CsharpMethodsTutorials.exe
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\CsharpMethodsTutorials\bin\Debug\net9.0\CsharpMethodsTutorials.deps.json
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\CsharpMethodsTutorials\bin\Debug\net9.0\CsharpMethodsTutorials.runtimeconfig.json
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\CsharpMethodsTutorials\bin\Debug\net9.0\CsharpMethodsTutorials.dll
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\CsharpMethodsTutorials\bin\Debug\net9.0\CsharpMethodsTutorials.pdb
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\CsharpMethodsTutorials\obj\Debug\net9.0\CsharpMethodsTutorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\CsharpMethodsTutorials\obj\Debug\net9.0\CsharpMethodsTutorials.AssemblyInfoInputs.cache
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\CsharpMethodsTutorials\obj\Debug\net9.0\CsharpMethodsTutorials.AssemblyInfo.cs
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\CsharpMethodsTutorials\obj\Debug\net9.0\CsharpMethodsTutorials.csproj.CoreCompileInputs.cache
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\CsharpMethodsTutorials\obj\Debug\net9.0\CsharpMethodsTutorials.sourcelink.json
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\CsharpMethodsTutorials\obj\Debug\net9.0\CsharpMethodsTutorials.dll
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\CsharpMethodsTutorials\obj\Debug\net9.0\refint\CsharpMethodsTutorials.dll
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\CsharpMethodsTutorials\obj\Debug\net9.0\CsharpMethodsTutorials.pdb
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\CsharpMethodsTutorials\obj\Debug\net9.0\CsharpMethodsTutorials.genruntimeconfig.cache
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\CsharpMethodsTutorials\obj\Debug\net9.0\ref\CsharpMethodsTutorials.dll
