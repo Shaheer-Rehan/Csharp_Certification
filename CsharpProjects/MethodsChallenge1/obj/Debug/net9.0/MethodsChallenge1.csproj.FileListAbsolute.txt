@@ -1,0 +1,15 @@
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\MethodsChallenge1\obj\Debug\net9.0\MethodsChallenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\MethodsChallenge1\obj\Debug\net9.0\MethodsChallenge1.AssemblyInfoInputs.cache
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\MethodsChallenge1\obj\Debug\net9.0\MethodsChallenge1.AssemblyInfo.cs
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\MethodsChallenge1\obj\Debug\net9.0\MethodsChallenge1.csproj.CoreCompileInputs.cache
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\MethodsChallenge1\obj\Debug\net9.0\MethodsChallenge1.sourcelink.json
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\MethodsChallenge1\bin\Debug\net9.0\MethodsChallenge1.exe
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\MethodsChallenge1\bin\Debug\net9.0\MethodsChallenge1.deps.json
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\MethodsChallenge1\bin\Debug\net9.0\MethodsChallenge1.runtimeconfig.json
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\MethodsChallenge1\bin\Debug\net9.0\MethodsChallenge1.dll
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\MethodsChallenge1\bin\Debug\net9.0\MethodsChallenge1.pdb
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\MethodsChallenge1\obj\Debug\net9.0\MethodsChallenge1.dll
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\MethodsChallenge1\obj\Debug\net9.0\refint\MethodsChallenge1.dll
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\MethodsChallenge1\obj\Debug\net9.0\MethodsChallenge1.pdb
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\MethodsChallenge1\obj\Debug\net9.0\MethodsChallenge1.genruntimeconfig.cache
+C:\Users\ShaheerRehan\Desktop\Shaheer\Csharp_Certification\CsharpProjects\MethodsChallenge1\obj\Debug\net9.0\ref\MethodsChallenge1.dll
