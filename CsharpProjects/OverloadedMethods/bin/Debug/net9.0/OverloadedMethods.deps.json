@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "OverloadedMethods/1.0.0": {
+        "runtime": {
+          "OverloadedMethods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OverloadedMethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
