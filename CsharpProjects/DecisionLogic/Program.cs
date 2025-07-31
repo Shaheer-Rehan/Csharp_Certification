@@ -8,24 +8,34 @@ Console.WriteLine($"Dice roll: {roll1} + {roll2} + {roll3} = {totalScore}");
 
 if ((roll1 == roll2) || (roll2 == roll3) || (roll1 == roll3))
 {
-    Console.WriteLine("You rolled doubles! +2 points added to total score.");
-    totalScore += 2;
+    if ((roll1 == roll2) && (roll2 == roll3))
+    {
+        Console.WriteLine("You rolled triples! +6 points added to total score.");
+        totalScore += 6;
+    }
+    else
+    {
+        Console.WriteLine("You rolled doubles! +2 points added to total score.");
+        totalScore += 2;
+    }
+    Console.WriteLine($"Your total score including the bonus is {totalScore}");
 }
-if ((roll1 == roll2) && (roll2 == roll3))
+if (totalScore >= 16)
 {
-    Console.WriteLine("You rolled triples! +6 points added to total score.");
-    totalScore += 6;
+    Console.WriteLine("Congratulations! You just won a new car!");
 }
-if (totalScore >= 15)
+else if (totalScore >= 10)
 {
-    Console.WriteLine("Congratulations! You win!");
+    Console.WriteLine("Congratulations! You just won a new laptop!");
 }
-
-if (totalScore < 15)
+else if (totalScore == 7)
 {
-    Console.WriteLine("Sorry, you lose.");
+    Console.WriteLine("Congratulations! You just won a trip to Italy!");
 }
-
+else
+{
+    Console.WriteLine("Here's a kitten as a consolation prize. Meow!");
+}
 
 
 // Testing how Boolean Expressions work
