@@ -1,0 +1,15 @@
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ArrayBasics\bin\Debug\net9.0\ArrayBasics.exe
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ArrayBasics\bin\Debug\net9.0\ArrayBasics.deps.json
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ArrayBasics\bin\Debug\net9.0\ArrayBasics.runtimeconfig.json
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ArrayBasics\bin\Debug\net9.0\ArrayBasics.dll
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ArrayBasics\bin\Debug\net9.0\ArrayBasics.pdb
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ArrayBasics\obj\Debug\net9.0\ArrayBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ArrayBasics\obj\Debug\net9.0\ArrayBasics.AssemblyInfoInputs.cache
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ArrayBasics\obj\Debug\net9.0\ArrayBasics.AssemblyInfo.cs
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ArrayBasics\obj\Debug\net9.0\ArrayBasics.csproj.CoreCompileInputs.cache
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ArrayBasics\obj\Debug\net9.0\ArrayBasics.sourcelink.json
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ArrayBasics\obj\Debug\net9.0\ArrayBasics.dll
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ArrayBasics\obj\Debug\net9.0\refint\ArrayBasics.dll
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ArrayBasics\obj\Debug\net9.0\ArrayBasics.pdb
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ArrayBasics\obj\Debug\net9.0\ArrayBasics.genruntimeconfig.cache
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ArrayBasics\obj\Debug\net9.0\ref\ArrayBasics.dll
