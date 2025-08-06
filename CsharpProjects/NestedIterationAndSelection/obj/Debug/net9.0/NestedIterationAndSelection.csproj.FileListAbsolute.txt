@@ -1,0 +1,15 @@
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\NestedIterationAndSelection\bin\Debug\net9.0\NestedIterationAndSelection.exe
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\NestedIterationAndSelection\bin\Debug\net9.0\NestedIterationAndSelection.deps.json
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\NestedIterationAndSelection\bin\Debug\net9.0\NestedIterationAndSelection.runtimeconfig.json
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\NestedIterationAndSelection\bin\Debug\net9.0\NestedIterationAndSelection.dll
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\NestedIterationAndSelection\bin\Debug\net9.0\NestedIterationAndSelection.pdb
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\NestedIterationAndSelection\obj\Debug\net9.0\NestedIterationAndSelection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\NestedIterationAndSelection\obj\Debug\net9.0\NestedIterationAndSelection.AssemblyInfoInputs.cache
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\NestedIterationAndSelection\obj\Debug\net9.0\NestedIterationAndSelection.AssemblyInfo.cs
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\NestedIterationAndSelection\obj\Debug\net9.0\NestedIterationAndSelection.csproj.CoreCompileInputs.cache
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\NestedIterationAndSelection\obj\Debug\net9.0\NestedIterationAndSelection.sourcelink.json
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\NestedIterationAndSelection\obj\Debug\net9.0\NestedIterationAndSelection.dll
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\NestedIterationAndSelection\obj\Debug\net9.0\refint\NestedIterationAndSelection.dll
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\NestedIterationAndSelection\obj\Debug\net9.0\NestedIterationAndSelection.pdb
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\NestedIterationAndSelection\obj\Debug\net9.0\NestedIterationAndSelection.genruntimeconfig.cache
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\NestedIterationAndSelection\obj\Debug\net9.0\ref\NestedIterationAndSelection.dll
