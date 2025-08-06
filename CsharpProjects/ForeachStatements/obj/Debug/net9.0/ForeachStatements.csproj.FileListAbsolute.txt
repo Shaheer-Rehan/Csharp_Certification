@@ -1,0 +1,15 @@
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ForeachStatements\bin\Debug\net9.0\ForeachStatements.exe
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ForeachStatements\bin\Debug\net9.0\ForeachStatements.deps.json
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ForeachStatements\bin\Debug\net9.0\ForeachStatements.runtimeconfig.json
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ForeachStatements\bin\Debug\net9.0\ForeachStatements.dll
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ForeachStatements\bin\Debug\net9.0\ForeachStatements.pdb
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ForeachStatements\obj\Debug\net9.0\ForeachStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ForeachStatements\obj\Debug\net9.0\ForeachStatements.AssemblyInfoInputs.cache
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ForeachStatements\obj\Debug\net9.0\ForeachStatements.AssemblyInfo.cs
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ForeachStatements\obj\Debug\net9.0\ForeachStatements.csproj.CoreCompileInputs.cache
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ForeachStatements\obj\Debug\net9.0\ForeachStatements.sourcelink.json
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ForeachStatements\obj\Debug\net9.0\ForeachStatements.dll
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ForeachStatements\obj\Debug\net9.0\refint\ForeachStatements.dll
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ForeachStatements\obj\Debug\net9.0\ForeachStatements.pdb
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ForeachStatements\obj\Debug\net9.0\ForeachStatements.genruntimeconfig.cache
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\ForeachStatements\obj\Debug\net9.0\ref\ForeachStatements.dll
