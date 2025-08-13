@@ -1,0 +1,15 @@
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CommentsBasics\bin\Debug\net9.0\CommentsBasics.exe
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CommentsBasics\bin\Debug\net9.0\CommentsBasics.deps.json
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CommentsBasics\bin\Debug\net9.0\CommentsBasics.runtimeconfig.json
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CommentsBasics\bin\Debug\net9.0\CommentsBasics.dll
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CommentsBasics\bin\Debug\net9.0\CommentsBasics.pdb
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CommentsBasics\obj\Debug\net9.0\CommentsBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CommentsBasics\obj\Debug\net9.0\CommentsBasics.AssemblyInfoInputs.cache
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CommentsBasics\obj\Debug\net9.0\CommentsBasics.AssemblyInfo.cs
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CommentsBasics\obj\Debug\net9.0\CommentsBasics.csproj.CoreCompileInputs.cache
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CommentsBasics\obj\Debug\net9.0\CommentsBasics.sourcelink.json
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CommentsBasics\obj\Debug\net9.0\CommentsBasics.dll
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CommentsBasics\obj\Debug\net9.0\refint\CommentsBasics.dll
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CommentsBasics\obj\Debug\net9.0\CommentsBasics.pdb
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CommentsBasics\obj\Debug\net9.0\CommentsBasics.genruntimeconfig.cache
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CommentsBasics\obj\Debug\net9.0\ref\CommentsBasics.dll
