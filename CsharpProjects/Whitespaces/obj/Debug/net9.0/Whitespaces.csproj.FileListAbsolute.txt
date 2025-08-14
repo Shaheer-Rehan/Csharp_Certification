@@ -1,0 +1,15 @@
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\Whitespaces\bin\Debug\net9.0\Whitespaces.exe
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\Whitespaces\bin\Debug\net9.0\Whitespaces.deps.json
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\Whitespaces\bin\Debug\net9.0\Whitespaces.runtimeconfig.json
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\Whitespaces\bin\Debug\net9.0\Whitespaces.dll
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\Whitespaces\bin\Debug\net9.0\Whitespaces.pdb
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\Whitespaces\obj\Debug\net9.0\Whitespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\Whitespaces\obj\Debug\net9.0\Whitespaces.AssemblyInfoInputs.cache
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\Whitespaces\obj\Debug\net9.0\Whitespaces.AssemblyInfo.cs
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\Whitespaces\obj\Debug\net9.0\Whitespaces.csproj.CoreCompileInputs.cache
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\Whitespaces\obj\Debug\net9.0\Whitespaces.sourcelink.json
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\Whitespaces\obj\Debug\net9.0\Whitespaces.dll
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\Whitespaces\obj\Debug\net9.0\refint\Whitespaces.dll
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\Whitespaces\obj\Debug\net9.0\Whitespaces.pdb
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\Whitespaces\obj\Debug\net9.0\Whitespaces.genruntimeconfig.cache
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\Whitespaces\obj\Debug\net9.0\ref\Whitespaces.dll
