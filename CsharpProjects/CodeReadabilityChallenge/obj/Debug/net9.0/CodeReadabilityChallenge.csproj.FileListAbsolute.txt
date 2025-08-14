@@ -1,0 +1,15 @@
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CodeReadabilityChallenge\bin\Debug\net9.0\CodeReadabilityChallenge.exe
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CodeReadabilityChallenge\bin\Debug\net9.0\CodeReadabilityChallenge.deps.json
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CodeReadabilityChallenge\bin\Debug\net9.0\CodeReadabilityChallenge.runtimeconfig.json
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CodeReadabilityChallenge\bin\Debug\net9.0\CodeReadabilityChallenge.dll
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CodeReadabilityChallenge\bin\Debug\net9.0\CodeReadabilityChallenge.pdb
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CodeReadabilityChallenge\obj\Debug\net9.0\CodeReadabilityChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CodeReadabilityChallenge\obj\Debug\net9.0\CodeReadabilityChallenge.AssemblyInfoInputs.cache
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CodeReadabilityChallenge\obj\Debug\net9.0\CodeReadabilityChallenge.AssemblyInfo.cs
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CodeReadabilityChallenge\obj\Debug\net9.0\CodeReadabilityChallenge.csproj.CoreCompileInputs.cache
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CodeReadabilityChallenge\obj\Debug\net9.0\CodeReadabilityChallenge.sourcelink.json
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CodeReadabilityChallenge\obj\Debug\net9.0\CodeReadabilityChallenge.dll
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CodeReadabilityChallenge\obj\Debug\net9.0\refint\CodeReadabilityChallenge.dll
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CodeReadabilityChallenge\obj\Debug\net9.0\CodeReadabilityChallenge.pdb
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CodeReadabilityChallenge\obj\Debug\net9.0\CodeReadabilityChallenge.genruntimeconfig.cache
+C:\Projects\Shaheer\Csharp_Certification\CsharpProjects\CodeReadabilityChallenge\obj\Debug\net9.0\ref\CodeReadabilityChallenge.dll
