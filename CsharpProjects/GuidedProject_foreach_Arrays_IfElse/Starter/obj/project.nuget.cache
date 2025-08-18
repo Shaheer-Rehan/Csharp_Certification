@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "D04dluD8Z6w=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Shaheer\\Csharp_Certification\\CsharpProjects\\GuidedProject_foreach_Arrays_IfElse\\Starter\\Starter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ShaheerRehan\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.18\\microsoft.netcore.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\ShaheerRehan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.18\\microsoft.windowsdesktop.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\ShaheerRehan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.18\\microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\ShaheerRehan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.18\\microsoft.netcore.app.host.win-x64.8.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
